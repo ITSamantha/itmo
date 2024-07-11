@@ -1,0 +1,16 @@
+well_rated('Super Mario Bros').
+well_rated('The Witcher 3: Wild Hunt').
+
+
+list_of_video_games(Games).
+
+old_game('The Sims 3').
+old_game('Minecraft').
+
+belongs_to_genre('The Witcher 3: Wild Hunt', 'RPG').
+belongs_to_genre('The Witcher 3: Wild Hunt', 'RP').
+
+supports_game_mode('The Witcher 3: Wild Hunt', 'Single player').
+supports_game_mode('The Witcher 3: Wild Hunt', 'Single').
+
+list_of_well_rated_games(WellRatedGames).
