@@ -1,0 +1,2 @@
+vboxmanage startvm WS_SDA_ubuntu
+vboxmanage startvm WS_SDA_win
